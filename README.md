@@ -3,4 +3,4 @@ A Sys-Admin Panel for Debian based systems. Made for MC server network configura
 
 python automation scripts included for task such as Perms->Buycraft &  Rewards+Lore for Crates
 
-![](https://imgur.com/a/rneNhrb)
+![Images in Action](https://imgur.com/a/rneNhrb)

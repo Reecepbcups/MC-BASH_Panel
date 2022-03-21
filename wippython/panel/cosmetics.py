@@ -31,4 +31,4 @@ def color(text):
         else:
             formatted += text[i]
         i += 1
-    return formatted + color_dict['&r'] 
+    return formatted + color_dict['&r']

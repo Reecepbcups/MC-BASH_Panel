@@ -2,6 +2,7 @@ import subprocess
 import utils
 
 # java -Xms2G -Xmx4G -jar server.jar nogui
+# THIS FILE ISDEPRICATED
 
 def start_server(server_path, jar_name):
     '''

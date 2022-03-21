@@ -2,6 +2,9 @@ import time
 import sys
 import select
 
+
+# THIS FILE ISDEPRICATED
+
 def live_read(file_path, read_all=False):
     '''
     Reads from a file live

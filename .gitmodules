@@ -1,0 +1,3 @@
+[submodule "mcpython-panel"]
+	path = mcpython-panel
+	url = https://github.com/Y2Kwastaken/mcpython-panel
